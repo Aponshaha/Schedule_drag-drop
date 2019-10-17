@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullcalendar/core": "^4.3.1",
+    "@fullcalendar/daygrid": "^4.3.0",
+    "@fullcalendar/interaction": "^4.3.0",
+    "@fullcalendar/react": "^4.3.0",
+    "@fullcalendar/timegrid": "^4.3.0",
+    "bootstrap": "^4.3.1",
+    "fullcalendar": "^3.10.1",
+    "jqwidgets-scripts": "^8.2.0",
     "react": "^16.10.1",
+    "react-available-times": "^1.2.2",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "reactstrap": "^8.0.1",
+    "sweetalert2": "^8.18.0",
+    "typescript": "^3.6.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
