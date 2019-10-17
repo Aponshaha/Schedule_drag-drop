@@ -5,6 +5,8 @@ export class Available_times extends Component {
     return (
       <div>
         <p>hello</p>
+        <p> 123 </p>
+        <p>commit</p>
       </div>
     )
   }
